@@ -18,7 +18,7 @@
 
 ## Ссылки
 - **Репозиторий:** https://github.com/valeriyaslektor/RPGclicker  
-- **Играбельная сборка:** [Папка Build](./Build/) 
+- **Играбельная сборка:** [Папка Build](RPGClicker/Build/) 
 - **Инструкция к прототипу:** [prototype_help.txt](./prototype_help.txt) 
 - **Документ по балансу:** https://docs.google.com/document/d/1eJoRsNy804--FqrI0kh1m__yYdW5PuBzcq61yxbhif4/edit?tab=t.pdhfkel7ce58 
 
