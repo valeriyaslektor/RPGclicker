@@ -15,12 +15,15 @@
 2. Загрузите сцену **PrototypeScene**.  
 3. Нажмите **Play**.  
 4. Используйте UI-кнопки для прогресса, бонусов, профилей и сброса.
+   
 
 ## Ссылки
 - **Репозиторий:** https://github.com/valeriyaslektor/RPGclicker  
 - **Играбельная сборка:** https://drive.google.com/file/d/1gqh5cGMy-g9Oum3NyU_jxzS5xvp_QY4D/view?usp=sharing
 - **Инструкция к прототипу:** [prototype_help.txt](./prototype_help.txt) 
-- **Документ по балансу:** https://docs.google.com/document/d/1eJoRsNy804--FqrI0kh1m__yYdW5PuBzcq61yxbhif4/edit?tab=t.pdhfkel7ce58 
+- **Документ по балансу:** https://docs.google.com/document/d/1eJoRsNy804--FqrI0kh1m__yYdW5PuBzcq61yxbhif4/edit?tab=t.pdhfkel7ce58
+
+![Demo GIF](./ICgif.gif)
 
 
 ## Контакты и предложения
